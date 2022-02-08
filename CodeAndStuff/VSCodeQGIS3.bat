@@ -1,4 +1,4 @@
-SET OSGEO4W_ROOT=C:\OSGeo4W64
+SET OSGEO4W_ROOT=C:\OSGeo4W
 call %OSGEO4W_ROOT%\bin\o4w_env.bat"
 call py3_env.bat
 call qt5_env.bat
